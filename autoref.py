@@ -7,7 +7,7 @@ import os
 from termcolor import colored
 
 class MonadScoreRegistration:
-    def __init__(self, invite_code='MEybc453', proxies=None):
+    def __init__(self, invite_code='RjNV6kaO', proxies=None):
         self.base_url = 'https://mscore.onrender.com'
         self.invite_code = invite_code
         self.proxies = proxies or []
